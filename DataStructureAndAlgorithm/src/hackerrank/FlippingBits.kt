@@ -39,7 +39,6 @@ doing the flipping we get 11111111111111111111111111111110 which in turn is 4294
  * The function accepts LONG_INTEGER n as parameter.
  */
 
-// TODO COMPLETE THE SOLUTION
 fun flippingBits(n: Long): Long {
     // Write your code here
     return 0
